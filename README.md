@@ -1,2 +1,1 @@
-sublime-dotfiles
-================
+Symlink this directory to ~/Library/Application Support/Sublime Text 2/Packages/User
