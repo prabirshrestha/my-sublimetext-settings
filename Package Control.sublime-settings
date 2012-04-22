@@ -3,6 +3,7 @@
 	"installed_packages":
 	[
 		"Alignment",
+		"ChangeQuotes",
 		"Git",
 		"Search Stack Overflow",
 		"SublimeCodeIntel",
