@@ -1,15 +1,17 @@
 {
-	"auto_upgrade_last_run": 1335059836,
+	"auto_upgrade_last_run": 1335064024,
 	"installed_packages":
 	[
 		"Alignment",
 		"ChangeQuotes",
 		"Git",
+		"Package Control",
 		"Search Stack Overflow",
 		"SublimeCodeIntel",
 		"SublimeGoogle",
 		"Tag",
 		"Twitter Bootstrap Snippets",
+		"Web Encoders",
 		"ZenCoding"
 	]
 }
