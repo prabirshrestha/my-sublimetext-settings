@@ -4,6 +4,7 @@
 	[
 		"Alignment",
 		"ChangeQuotes",
+		"CoffeeScript",
 		"Git",
 		"INI",
 		"Jasmine",
