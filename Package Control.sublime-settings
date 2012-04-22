@@ -2,6 +2,7 @@
 	"auto_upgrade_last_run": 1335059836,
 	"installed_packages":
 	[
+		"Alignment",
 		"Git"
 	]
 }
