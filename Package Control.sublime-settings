@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1335064024,
+	"auto_upgrade_last_run": 1338437506,
 	"installed_packages":
 	[
 		"Alignment",
@@ -7,6 +7,7 @@
 		"CoffeeScript",
 		"Git",
 		"INI",
+		"Jade",
 		"Jasmine",
 		"jQuery",
 		"LESS",
@@ -20,6 +21,7 @@
 		"Rake",
 		"SCSS",
 		"Search Stack Overflow",
+		"SublimeClang",
 		"SublimeCodeIntel",
 		"SublimeGoogle",
 		"SublimeREPL",
