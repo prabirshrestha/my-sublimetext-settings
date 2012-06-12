@@ -1,10 +1,10 @@
 {
-	"auto_upgrade_last_run": 1338437506,
+	"auto_upgrade_last_run": 1339538273,
 	"installed_packages":
 	[
-		"Alignment",
 		"ChangeQuotes",
 		"CoffeeScript",
+		"EJS",
 		"Git",
 		"INI",
 		"Jade",
@@ -21,9 +21,12 @@
 		"Rake",
 		"SCSS",
 		"Search Stack Overflow",
+		"Stylus",
+		"sublime-jslint",
 		"SublimeClang",
 		"SublimeCodeIntel",
 		"SublimeGoogle",
+		"SublimeLinter",
 		"SublimeREPL",
 		"Sublimipsum",
 		"Tag",
