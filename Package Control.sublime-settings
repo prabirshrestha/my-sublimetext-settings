@@ -1,7 +1,8 @@
 {
-	"auto_upgrade_last_run": 1339538273,
+	"auto_upgrade_last_run": 1340725456,
 	"installed_packages":
 	[
+		"Alignment",
 		"ChangeQuotes",
 		"CoffeeScript",
 		"EJS",
