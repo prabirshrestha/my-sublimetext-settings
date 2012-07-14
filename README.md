@@ -20,3 +20,13 @@ del /s User
 rmdir User
 git clone git@github.com:prabirshrestha/my-sublimetext-settings.git User
 ```
+
+## Installing on Linux
+
+### Installing SublimeText in Ubuntu
+
+```sh
+sudo add-apt-repository ppa:webupd8team/sublime-text-2
+sudo apt-get update
+sudo apt-get install sublime-text
+```
