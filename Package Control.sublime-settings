@@ -1,12 +1,17 @@
 {
-	"auto_upgrade_last_run": 1340725456,
+	"auto_upgrade_last_run": 1343247750,
 	"installed_packages":
 	[
 		"Alignment",
+		"Bison",
 		"ChangeQuotes",
+		"CMake",
 		"CoffeeScript",
+		"CompleteSharp",
 		"EJS",
+		"Gist",
 		"Git",
+		"Goto Symbol",
 		"INI",
 		"Jade",
 		"Jasmine",
@@ -36,6 +41,7 @@
 		"Twitter Bootstrap Snippets",
 		"VBScript",
 		"Web Encoders",
+		"zenburn",
 		"ZenCoding"
 	]
 }
