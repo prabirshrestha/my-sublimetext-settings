@@ -1,8 +1,9 @@
 {
-	"auto_upgrade_last_run": 1343247750,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"Alignment",
+		"Awk",
 		"Bison",
 		"ChangeQuotes",
 		"CMake",
@@ -17,6 +18,7 @@
 		"Jasmine",
 		"jQuery",
 		"LESS",
+		"Lua Dev",
 		"Markdown Preview",
 		"Nodejs",
 		"NSIS",
