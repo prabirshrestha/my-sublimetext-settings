@@ -1,11 +1,12 @@
 {
-	"color_scheme": "Packages/zenburn/zenburn.tmTheme",
-	"font_size": 12.0,
-	"ignored_packages":
-	[
-		""
-	],
-	"tab_size": 4,
-	"translate_tabs_to_spaces": true,
-	"vintage_start_in_command_mode": true
+    "color_scheme": "Packages/zenburn/zenburn.tmTheme",
+    "font_size": 12.0,
+    "ignored_packages":
+    [
+        ""
+    ],
+    "tab_size": 4,
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true,
+    "vintage_start_in_command_mode": true
 }
