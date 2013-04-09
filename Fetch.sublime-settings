@@ -1,0 +1,12 @@
+{
+	"files":
+	{
+		"jquery": "http://code.jquery.com/jquery.min.js",
+        "backbone": "http://documentcloud.github.io/backbone/backbone-min.js",
+        "underscore": "http://underscorejs.org/underscore-min.js"
+	},
+	"packages":
+	{
+		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master"
+	}
+}
