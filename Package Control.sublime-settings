@@ -3,6 +3,7 @@
 	"installed_packages":
 	[
 		"Abacus",
+		"AdvancedNewFile",
 		"Awk",
 		"Backbone.js",
 		"Bison",
