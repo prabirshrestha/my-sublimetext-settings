@@ -4,6 +4,7 @@
 	[
 		"Abacus",
 		"Awk",
+		"Backbone.js",
 		"Bison",
 		"BracketHighlighter",
 		"cdnjs",
@@ -13,6 +14,7 @@
 		"ColorPick",
 		"CompleteSharp",
 		"EJS",
+		"Emmet",
 		"FileDiffs",
 		"Gist",
 		"Git",
@@ -23,8 +25,10 @@
 		"Jade",
 		"Jasmine",
 		"jQuery",
+		"jQuery Snippets pack",
 		"LESS",
 		"Lua Dev",
+		"MacTerminal",
 		"Markdown Preview",
 		"Mocha Snippets",
 		"NSIS",
@@ -40,7 +44,6 @@
 		"Rake",
 		"SCSS",
 		"Search Stack Overflow",
-		"SideBarEnhancements",
 		"Slug",
 		"Stylus",
 		"sublime-jslint",
@@ -57,7 +60,6 @@
 		"Twitter Bootstrap Snippets",
 		"VBScript",
 		"Web Encoders",
-		"zenburn",
-		"ZenCoding"
+		"zenburn"
 	]
 }
