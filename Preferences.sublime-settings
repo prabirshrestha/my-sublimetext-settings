@@ -1,15 +1,21 @@
 {
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/zenburn/zenburn.tmTheme",
-	"font_size": 12.0,
+	"font_face": "Consolas",
+	"font_size": 16,
+	"word_wrap": false,
 	"highlight_line": true,
+	"line_numbers": true,
 	"ignored_packages":
 	[
 		""
 	],
-	"scroll_past_end": true,
+	"show_full_path": true,
+	"scroll_past_end": false,
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"vintage_start_in_command_mode": true
+	"ensure_newline_at_eof_on_save": true,
+	"vintage_start_in_command_mode": true,
+	"highlight_modified_tabs": true
 }
