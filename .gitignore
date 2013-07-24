@@ -2,3 +2,6 @@ SublimeREPLHistory/
 Package Control.last-run
 .DS_Store
 Thumbs.db
+Package Control.cache/
+Package Control.ca-bundle
+Package Control.ca-list

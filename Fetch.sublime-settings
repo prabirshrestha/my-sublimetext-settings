@@ -1,6 +1,7 @@
 {
 	"files":
 	{
+		"angular": "https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.js",
 		"backbone": "http://documentcloud.github.io/backbone/backbone-min.js",
 		"jquery": "http://code.jquery.com/jquery.min.js",
 		"underscore": "http://underscorejs.org/underscore-min.js"
