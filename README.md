@@ -1,5 +1,19 @@
 ## Installing on Mac
 
+### Sublime Text 3
+```bash
+cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
+rm -rf User/
+git clone git@github.com:prabirshrestha/my-sublimetext-settings.git User
+```
+
+**Symlink Sublime Text**
+
+```bash
+sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /bin/subl
+```
+
+### Sublime Text 2
 ```bash
 cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
 rm -rf User/
