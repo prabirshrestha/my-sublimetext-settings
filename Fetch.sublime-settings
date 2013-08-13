@@ -2,7 +2,10 @@
 	"files":
 	{
 		"angular": "https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.js",
+		"angular-ui-router": "https://raw.github.com/angular-ui/ui-router/master/release/angular-ui-router.js",
 		"backbone": "http://documentcloud.github.io/backbone/backbone-min.js",
+		"bootstrap.css": "https://raw.github.com/twbs/bootstrap/3.0.0-wip/dist/css/bootstrap.css",
+		"bootstrap.js": "https://raw.github.com/twbs/bootstrap/3.0.0-wip/dist/js/bootstrap.js",
 		"jquery": "http://code.jquery.com/jquery.min.js",
 		"underscore": "http://underscorejs.org/underscore-min.js"
 	},
