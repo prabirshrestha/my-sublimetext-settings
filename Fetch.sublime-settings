@@ -1,8 +1,11 @@
 {
 	"files":
 	{
-		"angular": "https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.js",
+		"angular": "https://ajax.googleapis.com/ajax/libs/angularjs/1.1.5/angular.js",
 		"angular-ui-router": "https://raw.github.com/angular-ui/ui-router/master/release/angular-ui-router.js",
+		"angular-resource": "https://ajax.googleapis.com/ajax/libs/angularjs/1.1.5/angular-resource.js",
+		"angular-cookies": "https://ajax.googleapis.com/ajax/libs/angularjs/1.1.5/angular-cookies.js",
+		"angular-sanitize": "https://ajax.googleapis.com/ajax/libs/angularjs/1.1.5/angular-sanitize.js",
 		"backbone": "http://documentcloud.github.io/backbone/backbone-min.js",
 		"bootstrap.css": "https://raw.github.com/twbs/bootstrap/3.0.0-wip/dist/css/bootstrap.css",
 		"bootstrap.js": "https://raw.github.com/twbs/bootstrap/3.0.0-wip/dist/js/bootstrap.js",
