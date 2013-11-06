@@ -6,7 +6,7 @@
 		"angular-mocks": "https://raw.github.com/angular/angular.js/v1.0.8/src/ngMock/angular-mocks.js",
 		"angular-resource": "https://ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular-resource.js",
 		"angular-sanitize": "https://ajax.googleapis.com/ajax/libs/angularjs/1.0.8/angular-sanitize.js",
-		"angular-ui-router": "https://gist.github.com/prabirshrestha/7165107/raw/62b53c499fc46601c54593fb61bb05bd62b7b629/angular-ui-router.js",
+		"angular-ui-router": "https://gist.github.com/prabirshrestha/7165107/raw/angular-ui-router.js",
 		"backbone": "http://documentcloud.github.io/backbone/backbone-min.js",
 		"bootstrap.css": "https://raw.github.com/twbs/bootstrap/3.0.0-wip/dist/css/bootstrap.css",
 		"bootstrap.js": "https://raw.github.com/twbs/bootstrap/3.0.0-wip/dist/js/bootstrap.js",
