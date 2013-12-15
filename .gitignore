@@ -2,6 +2,6 @@
 Package Control.last-run
 .DS_Store
 Thumbs.db
-Package Control.cache/
-Package Control.ca-bundle
+*.*ca-bundle
 Package Control.ca-list
+*.cache
