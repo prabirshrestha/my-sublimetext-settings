@@ -11,6 +11,7 @@ git clone git@github.com:prabirshrestha/my-sublimetext-settings.git User
 
 ```bash
 sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /bin/subl
+sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /bin/st
 ```
 
 ### Sublime Text 2
